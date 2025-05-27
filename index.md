@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
-description: CEAMLS SAIRI Summer 2025 Research Website
+title: Moradeyo Adetosoye
+description: Moradeyo Adetosoye CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Rooted in heritage, rising with purpose."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Sophomore, Computer Information Systems @ Grambling State University"
+  - "🔬 Research: AI Algorithmic Approaches for Biomedical Research"
+  - "📍 Based in Grambling, LA"
+  - "🚀 Passionate about using AI to create ethical, data-driven solutions for real-world impact"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/moradeyoadetosoye
 image: /assets/images/me.jpg
 ---
