@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about using AI to create ethical, data-driven solutions for real-world impact"
 
 linkedin: https://www.linkedin.com/in/moradeyoadetosoye
-image: /assets/images/me.jpg
+image: assets/images/headshot.png
 ---
