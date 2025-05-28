@@ -16,19 +16,19 @@ about:
     When I’m not working on projects or research, I enjoy exploring new places, co-leading youth initiatives like Preserve Our Roots, and learning more about AI and financial systems.
 
   hobbies:
-    - icon: 🎺
+    - icon: ✈️
       title: Traveling
       description: I love discovering new places, meeting people, and learning about different cultures.
-    - icon: 🤖
+    - icon: 📚
       title: Reading
       description: I enjoy diving into thrilling, funny, or mysterious books that keep me hooked.
-    - icon: 🕹️
+    - icon: 🌱☄️
       title: Volunteering
       description: I'm passionate about giving back and leading projects that uplift my community.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+    - image: assets/images/Screenshot 2025-05-28 at 12.20.16 PM.png
+      caption: Traveling!
     - image: /assets/images/me-basketball.png
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/me.jpg
