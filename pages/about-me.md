@@ -22,7 +22,7 @@ about:
     - icon: 📚
       title: Reading
       description: I enjoy diving into thrilling, funny, or mysterious books that keep me hooked.
-    - icon: 🌱☄️
+    - icon: 🌱
       title: Volunteering
       description: I'm passionate about giving back and leading projects that uplift my community.
 
