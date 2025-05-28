@@ -27,12 +27,12 @@ about:
       description: I'm passionate about giving back and leading projects that uplift my community.
 
   gallery:
-    - image: assets/images/Screenshot 2025-05-28 at 12.20.16 PM.png
-      caption: Traveling!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: assets/images/WhatsApp Image 2025-05-28 at 12.48.59.jpeg
+      caption: The birthday dinner I recently had with my friends!
+    - image: assets/images/WhatsApp Image 2025-05-28 at 12.47.40.jpeg
+      caption: Galentines ❤️
+    - image: assets/images/WhatsApp Image 2025-05-28 at 12.50.58.jpeg
+      caption: Trip to the cinema 
+    - image: assets/images/WhatsApp Image 2025-05-28 at 12.47.39.jpeg
+      caption: I love dressing up for Halloween 🎃
 ---
