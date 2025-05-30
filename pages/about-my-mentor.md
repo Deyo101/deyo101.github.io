@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Amara Eze
   title: Graduate Student, Mathematics
-  image: /assets/images/graduate-student-mentor.jpg
+  image: assets/images/Screenshot 2025-05-29 at 8.46.16 PM.png
   website: https://www.linkedin.com/in/amara-eze-569b59259/
   bio: |
     Amara Eze is a mathematician and graduate student at Morgan State University, where she serves as a Graduate Teaching Assistant and Research Assistant. Her academic and professional focus lies in mathematics, and she is actively involved in both instruction and research within her department.
@@ -16,7 +16,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Olaniyi Iyiola
   title: Associate Professor of Mathematics, Morgan State University
-  image: /assets/images/faculty-mentor.jpg
+  image: assets/images/Screenshot 2025-05-29 at 8.47.01 PM.png
   website: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
   bio: |
     Dr. Olaniyi Iyiola is an Associate Professor of Mathematics in the Department of Mathematics at Morgan State University, MD. Dr. Iyiola has received several awards and recognitions including (i) Merit Award for Research (2020): Faculty Award (University wide), California University of Pennsylvania, PA, Outstanding teaching performance from the Dean, Arts & Sciences (Fall 2021 & 2022) for graduate level courses in Abstract Linear Algebra, Numerical Analysis and Matrix Theory & Applications. (ii) Most cited paper since 2019 “Projection methods with alternating inertial steps for variational inequalities: Weak and linear convergence,” 2022 in Applied Numerical Mathematics (Q1 with 19% acceptance rate), (iii) Ranked among top 2% (2022 and 2023) worldwide scientists by citations and other metrics compiled by Stanford University using Elsevier database. (iv) Mark Lawrence Teply Award - Outstanding Research Potential (2017), graduate student award, University of Wisconsin, Milwaukee, WI. (v) Morris and Miriam Marden Award - High Quality Research Paper (2016), graduate student award, University of Wisconsin, Milwaukee, WI.
